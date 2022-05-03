@@ -1,11 +1,4 @@
-# Portfólio
-
-## 01 - Projeto DACAP1 20221 (faculdade) 
-
-- Desenvolvido um CRUD simples para escolha, consulta e listagem em Java Web, XHTML, JSF, JPA e Hibernate.
-- OBS: projeto em desenvolvimento.
-
-## Olá! Eu sou Saulo Felipe, iniciante em desenvolvimento de softeware com muita vontade de aprender!
+# Olá! Eu sou Saulo Felipe, iniciante em desenvolvimento de softeware com muita vontade de aprender!
 <div align="center">
   <a href="https://github.com/saulllofelipe">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
