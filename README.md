@@ -1,4 +1,4 @@
-# Olá! Eu sou Saulo Felipe, iniciante em desenvolvimento de software com muita vontade de aprender!
+# Olá! Eu sou Saulo Felipe, iniciante em desenvolvimento de software!
 
 <div align="center">
   <a href="https://github.com/saulllofelipe">
