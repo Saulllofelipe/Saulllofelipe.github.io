@@ -1,0 +1,65 @@
+
+
+body  {
+    
+    /*font-family: verdana;
+    margin: 0;
+    margin:auto;
+    max-width: 900px;
+    background-color: rgb(216, 209, 209);*/
+    
+    font-family: verdana;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: rgb(199, 247, 232);
+}
+
+#currentNumber {
+    display: flex;
+    align-items: center;
+    margin: 0 20px;
+    font-size: 25px;
+    
+   
+}
+
+.title {
+    text-align: center;
+}
+
+.text_p {   
+    text-align: center;
+}
+
+#counter {
+    display: flex;
+    align-items: center;
+    
+       
+}
+
+button {
+    height: 40px;
+    width: 40px;
+    font-size: 25px;
+    border-radius: 50%;
+    cursor: pointer;
+    background: rgb(162, 156, 247);
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+

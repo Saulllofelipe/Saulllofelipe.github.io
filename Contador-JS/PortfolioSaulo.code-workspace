@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\PortfolioSaulo"
+		},
+		{
+			"path": "..\\..\\..\\Desktop\\Jogo-nave"
+		},
+		{
+			"path": "..\\Bootcamp Santander Fullstack Developer- DIO\\cursohtml"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "cursohtml"
+	}
+}
